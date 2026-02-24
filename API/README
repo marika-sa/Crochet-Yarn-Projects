@@ -1,0 +1,9 @@
+API Server
+
+To start server run:
+node index.js -> {the index js file in this case its called index.js}
+
+With Nodemon - to start server run:
+npm start
+
+
