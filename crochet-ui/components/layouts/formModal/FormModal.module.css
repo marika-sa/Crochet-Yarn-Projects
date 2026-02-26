@@ -1,0 +1,79 @@
+.container {
+    z-index: 1000;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(44, 35, 66, 0.9);
+    z-index: 1;
+}
+
+.background {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url("/modal-bg.png");
+    height: 700px;
+    width: 950px;
+    background-size: 100% 100%;
+}
+
+.elements {
+    flex-direction: row;
+    gap: 20px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 20px;
+}
+
+.formGroup {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    font-family: var(--font-caveat-brush);
+    font-size: 1.5rem;
+    color: #847DDA;
+}
+
+.inputContainer {
+    background-image: url("/wide-container.png");
+    width: 360px;
+    height: 50px;
+    background-size: 100% 100%;
+}
+
+.formGroup input {
+    margin: 10px 0 0 25px;
+    width: 300px;
+    background: transparent;
+    border: none;
+    font-family: var(--font-caveat-brush);
+    font-size: 1.3rem;
+    color: #4c4780;
+}
+
+.formGroup input:focus {
+    border: none;
+    outline: none;
+}
+
+.buttons {
+    display: flex;
+    gap: 20px;
+}
