@@ -6,6 +6,10 @@ The app displays all projets - **on going**, **on pause** and **completed** - wh
 
 ---
 
+## Video Demo
+
+[![Watch the video](https://img.youtube.com/vi/0jjVpNfqSjg/0.jpg)](https://www.youtube.com/watch?v=0jjVpNfqSjg)
+
 ## Prerequisites
 
 Make sure you have the following installed before getting started:
