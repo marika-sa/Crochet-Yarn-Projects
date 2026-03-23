@@ -8,7 +8,14 @@ The app displays all projets - **on going**, **on pause** and **completed** - wh
 
 ## Video Demo
 
-[![Watch the video](https://img.youtube.com/vi/0jjVpNfqSjg/0.jpg)](https://www.youtube.com/watch?v=0jjVpNfqSjg)
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=0jjVpNfqSjg">
+    <img src="https://img.youtube.com/vi/0jjVpNfqSjg/maxresdefault.jpg" alt="Watch the video" style="width:100%; border-radius: 10px;">
+    <br>
+    <sub><b>Click to watch: Project Demo Video</b></sub>
+  </a>
+</div>
+
 
 ## Prerequisites
 
