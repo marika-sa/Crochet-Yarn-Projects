@@ -70,3 +70,21 @@
     color: #5f59b4;
     text-decoration: wavy underline;
 }
+
+.children {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.childrenText {
+    font-family: var(--font-caveat-brush);
+    font-size: 2rem;
+    color: #4c4780;
+}
+
+.childrenButtons {
+    display: flex;
+    gap: 20px;
+}
